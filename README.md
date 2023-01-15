@@ -1,4 +1,4 @@
-# Female Supervillains Trading Cards (Template Version)
+# Female Supervillains Trading Cards
 > Flask app for collecting and displaying digital trading cards featuring female supervillains. This project was created using a REST API, and the card data is stored in a SQL database.
 
 <!--
