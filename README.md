@@ -1,9 +1,7 @@
 # Female Supervillains Trading Cards
 > Flask app for collecting and displaying digital trading cards featuring female supervillains. This project was created using a REST API, and the card data is stored in a SQL database.
 
-<!--
-I have another version of this project created using a Jinja templating [here](https://github.com/kimberlythomas/Female-Supervillains-Trading-Cards---Template-Version).
--->
+> I have another version of this project created using Jinja templating [here](https://github.com/kimberlythomas/Female-Supervillains-Trading-Cards---Template-Version).
 
 > Live demo [_here_](https://female-supervillains-trading-cards.kimberlythomas.repl.co/). <!-- If you have the project hosted somewhere, include the link here. -->
 
